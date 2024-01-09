@@ -25,18 +25,18 @@ organizations:
     url: https://www2.unimol.it
     
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Post-Quantum Cryptography
+  - Cryptographic Scheme Design
+  - Access Control
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Cryptography
+    - course: PhD in Biology and Applied Sciences
       institution: University of Molise
       year: Ongoing
     - course: MS in Software Systems Security
@@ -114,11 +114,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Cimorelli Belfiore.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Roberta Cimorelli Belfiore is a PhD student in Biology and Applied Sciences, from University of Molise. Her research is focused on the analysis and design of cryptographic schemes, with an emphasis on post-quantum secure solutions and issues related to access control.
 {style="text-align: justify;"}
