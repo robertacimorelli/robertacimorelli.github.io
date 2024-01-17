@@ -30,7 +30,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Post-Quantum Cryptography
-  - Cryptographic Scheme Design
+  - Cryptographic Schemes Design
   - Access Control
 
 # Education to show in About widget
