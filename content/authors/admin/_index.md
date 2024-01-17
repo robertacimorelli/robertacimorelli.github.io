@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Biology and Applied Sciences
+    - course: PhD in Computer Science, Ongoing
       institution: University of Molise
       year: Ongoing
     - course: MS in Software Systems Security
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Roberta Cimorelli Belfiore is a PhD student in Biology and Applied Sciences, from University of Molise. Her research is focused on the analysis and design of cryptographic schemes, with an emphasis on post-quantum secure solutions and issues related to access control.
+Roberta Cimorelli Belfiore is a PhD student in Computer Science within the PhD program in Biology and Applied Sciences at the University of Molise, Italy. Her research is focused on the analysis and design of cryptographic schemes, with an emphasis on post-quantum secure solutions and issues related to access control.
 {style="text-align: justify;"}
