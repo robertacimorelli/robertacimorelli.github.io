@@ -3,7 +3,6 @@ title: Security Analysis of Access Control Policies for Smart Homes
 
 event: ACM Symposium on Access Control Models and Technologies (SACMAT)
 # event_url: https://example.org
-
 location: Fondazione Bruno Kessler, Polo Umanistico
 address:
    street: Via Santa Croce 77
@@ -28,9 +27,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-# image:
-#    caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#    focal_point: Right
+image:
+    #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+    focal_point: Right
 
 links:
 #   - icon: twitter
