@@ -163,6 +163,16 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
+    id: awards
+    content:
+      title: Awards
+      filters:
+        folders:
+          - awards
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: featured
     content:
       title: Publications
