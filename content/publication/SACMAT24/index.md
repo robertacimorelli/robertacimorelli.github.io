@@ -1,22 +1,24 @@
 ---
-title: 'Identity-Based Matchmaking Encryption from Standard Lattice Assumptions'
+title: 'Hierarchical Key Assignment Schemes with Key Rotation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Andrea De Cosmo 
+  - Alfredo De Santis
   - Anna Lisa Ferrara
+  - Barbara Masucci
 
 # Author notes (optional)
 author_notes:
-  - 'University of Molise'
-  - 'Leonardo S.p.A. Cyber & Security Solutions Division'
-  - 'University of Molise'
+  - 'University of Molise, Italy'
+  - 'University of Salerno, Italy'
+  - 'University of Molise, Italy'
+  - 'University of Salerno, Italy'
 
-date: '2024-02-16T00:00:00Z'
-doi: 'https://doi.org/10.1007/978-3-031-54773-7_7'
+date: '2024-06-25T00:00:00Z'
+doi: 'https://doi.org/10.1145/3649158.3657037'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-08T00:00:00Z'
@@ -27,10 +29,11 @@ publishDate: '2024-01-08T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 22nd International Conference on Applied Cryptography and Network Security (ACNS '24).*
-publication_short: In *Proceedings of the 22nd International Conference on Applied Cryptography and Network Security (ACNS '24).*
+publication: In *Proceedings of the 29th ACM Symposium on Access Control Models and Technologies (SACMAT '24).*
 
-abstract: Identity-Based Matchmaking Encryption (IB-ME), initially proposed by Ateniese et al. (Crypto 2019), is an extension of Identity-Based Encryption (IBE) that emphasizes privacy and authenticity. It ensures that the content of a message is only revealed when the recipient’s identity matches the intended recipient specified by the sender, and when the target sender’s identity, chosen by the receiver during decryption, matches the actual sender’s identity. In cases where there is a mismatch, no information about the sender, receiver, or message is disclosed. Francati et al. (IndoCrypt 2021) observed that the privacy definition for IB-ME solely guarantees the concealment of the message and sender identity when the receiver’s identity does not match the intended recipient specified by the sender. It does not consider whether the target sender’s identity matches the actual sender’s identity. To overcome this limitation, they proposed an enhanced privacy notion and developed an IB-ME scheme that achieves it in the plain model, even though relying on non-standard assumptions. In this paper, we address the problem of constructing an IB-ME scheme that offers enhanced privacy under standard assumptions with particular emphasis on post quantum security. Specifically, we first show how to obtain an IB-ME that achieves the notion of enhanced privacy using as building blocks any anonymous IBE and reusable computational extractors. Next, we show how to construct an IB-ME starting from an IB-ME satisfying enhanced privacy and a context-hiding homomorphic signature, thereby ensuring not only enhanced privacy but also authenticity. Notably, our framework allows for secure IB-ME schemes to be instantiated in the standard model from lattice assumptions, thus providing also post-quantum security.
+publication_short: In *Proceedings of the 29th ACM Symposium on Access Control Models and Technologies (SACMAT '24).*
+
+abstract: Hierarchical structures are frequently used to manage access to sensitive data in various contexts, ranging from organizational settings to IoT networks. A Hierarchical Key Assignment Scheme (HKAS) is designed to cryptographically enforce access control in hierarchical structures. It operates by assigning secrets and encryption keys to a set of classes within a partially ordered hierarchy. This approach ensures that the secret of a higher-level class can be used to efficiently derive keys for all classes positioned at a lower level in the hierarchy. In this paper, we introduce a novel cryptographic primitive that we name HKAS with Key Rotation (KR-HKAS). This extension enhances the current HKAS framework by enabling a provably secure mechanism for periodically rotating both encryption keys and secrets, without necessitating a complete setup reset. This proactive approach effectively mitigates the risk of security breaches due to compromised cryptographic material, aligning with the best security practice.
 
 
 # Summary. An optional shortened abstract.
