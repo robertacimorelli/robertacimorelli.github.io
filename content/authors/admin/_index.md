@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Roberta Cimorelli Belfiore is a PhD student in Computer Science within the PhD program in Biology and Applied Sciences at the University of Molise, Italy. Her research is focused on the analysis and design of cryptographic schemes, with an emphasis on post-quantum secure solutions and issues related to access control.
+Roberta Cimorelli Belfiore is a PhD student in Computer Science within the PhD program in Applied Sciences at the University of Molise, Italy. Her research is focused on the analysis and design of cryptographic schemes, with an emphasis on post-quantum secure solutions and issues related to access control.
 {style="text-align: justify;"}
