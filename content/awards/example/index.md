@@ -2,7 +2,7 @@
 title: CLUSIT THESIS AWARD
 date: '2024-09-05'
 ---
-Awarded 4th place at the 19th edition of the CLUSIT Thesis Award.
+Honored with the CLUSIT Thesis Award at the 19th edition.
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
