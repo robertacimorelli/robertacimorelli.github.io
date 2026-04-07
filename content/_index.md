@@ -210,7 +210,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Tools
+      title: Projects
       filters:
         folders:
           - project

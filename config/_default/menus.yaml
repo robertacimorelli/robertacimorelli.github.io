@@ -22,7 +22,7 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Tool
+  - name: Projects
     url: '#projects'
     weight: 50
   - name: Contact
