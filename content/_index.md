@@ -183,6 +183,16 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: preprint
+    content:
+      title: Pre-print
+      filters:
+        folders:
+          - preprint
+    design:
+      columns: '2'
+      view: compact
   # - block: collection
   #   content:
   #     title: Recent Publications
