@@ -19,11 +19,13 @@ publication: ""
 publication_short: ""
 
 abstract: "Sanitizable signature schemes allow a designated sanitizer to modify selected fields of a signed document without invalidating the signature. Existing schemes assume the sanitizer's key is permanently secure, but in practice sanitizer keys are long-lived: a hospital's data-release officer, a court registry, or a GDPR compliance system may hold the same sanitization capability for years or decades, making compromise a planning assumption rather than an exceptional event. We introduce Dual-Forward-Secure Sanitizable Signatures (DFS-SS), the first sanitizable signature scheme in which both the signing and the sanitization capability are forward-secure. After the signing key is compromised, past signatures remain unforgeable; after the sanitizer key is compromised, past sanitizations outside a configurable window W remain unforgeable. The window parameter captures a novel trade-off between operational flexibility and compromise resilience that does not arise in prior work. We formalize five security properties that jointly cover every non-trivial attack scenario, and give a generic construction from any forward-secure signature scheme, a forward-secure tagged chameleon hash (FS-TCH, a new primitive we introduce), and a collision-resistant Merkle commitment. The security model required particular care in ruling out two non-trivial attack vectors: an assembled-replay attack on the sanitization capability and a policy-reachability subtlety in the signer's unforgeability. We instantiate the construction with XMSS and a new lattice-based FS-TCH whose security reduces to Module-SIS, collision resistance of SHAKE-256, and PRG security of a GGM tree. A GGM-tree optimization keeps the sanitizer state under 500 bytes for practical parameters."
+
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
+featured: true
 
 #links:
 #- name: Custom Link
@@ -39,18 +41,18 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+#image:
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+ # focal_point: ""
+ # preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
