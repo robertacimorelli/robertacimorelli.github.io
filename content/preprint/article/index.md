@@ -1,8 +1,11 @@
 ---
-title: "Dual-Forward-Secure Sanitizable Signatures"
+title: "Dual-Forward-Secure Sanitizable Signatures (Full version)"
 authors:
 - admin
 - Anna Lisa Ferrara
+author_notes:
+  - 'University of Molise'
+  - 'University of Molise'
 date: "2026-04-07T00:00:00Z"
 doi: ""
 
