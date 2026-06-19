@@ -1,19 +1,19 @@
 ---
-title: Security Analysis of Access Control Policies for Smart Homes
+title: Identity-Based Matchmaking Encryption from Standard Lattice Assumptions
 
-event: ACM Symposium on Access Control Models and Technologies (SACMAT)
-event_url: https://www.sacmat.org/2023/index.php
-location: Fondazione Bruno Kessler, Polo Umanistico
+event: ACNS 2024, 22nd International Conference on Applied Cryptography and Network Security 
+event_url: https://wp.nyu.edu/acns2024/
+location: New York University Abu Dhabi 
 address:
-   street: Via Santa Croce 77
-   city: Trento, Italy
+   street: 
+   city: Abu Dhabi, UAE
 
 # summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-08T12:15:00Z'
+date: '2024-03-06T12:15:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
@@ -38,8 +38,8 @@ links:
 # url_code: ''
 # url_pdf: ''
  
-url_slides: 'uploads/presSACMAT.pptx'
-url_video: 'uploads/sacmat47sp.mp4'
+url_slides: 'uploads/presACNS.pdf'
+#url_video: 'uploads/sacmat47sp.mp4'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
