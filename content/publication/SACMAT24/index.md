@@ -37,8 +37,7 @@ abstract: Hierarchical structures are frequently used to manage access to sensit
 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: In *Proceedings of the 29th ACM Symposium on Access Control Models and Technologies (SACMAT '24).*
 tags: []
 
 # Display this page in the Featured widget?
