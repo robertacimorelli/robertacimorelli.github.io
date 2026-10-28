@@ -14,7 +14,7 @@ author_notes:
   - 'University of Molise'
 
 date: '2023-05-23T00:00:00Z'
-doi: 'https://doi.org/10.1145/3589608.3593842'
+doi: '10.1145/3589608.3593842'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-08T00:00:00Z'

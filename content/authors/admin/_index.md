@@ -30,8 +30,9 @@ organizations:
 # Interests to show in About widget
 interests:
   - Post-Quantum Cryptography
-  - Cryptographic Schemes Design
-  - Access Control
+  - Cryptographic Access Control
+  - Privacy-Preserving Authentication
+  - Forward Security
 
 # Education to show in About widget
 education:
@@ -39,7 +40,7 @@ education:
     - course: PhD in Computer Science
       institution: University of Molise
       year: Ongoing
-    - course: MS in Software Systems Security
+    - course: MS in Software Systems Security (Cum Laude)
       institution: University of Molise
       year: 2023
     - course: BSc in Computer Science
@@ -120,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Roberta Cimorelli Belfiore is a PhD student in Computer Science within the PhD program in Applied Sciences at the University of Molise, Italy. Her research is focused on the analysis and design of cryptographic schemes, with an emphasis on post-quantum secure solutions and issues related to access control.
+Roberta Cimorelli Belfiore is a PhD student in Computer Science within the PhD Program in Biology and Applied Sciences (Applied Sciences curriculum) at the University of Molise, Italy, under the supervision of Prof. Anna Lisa Ferrara. Her research combines theoretical cryptographic foundations with practical applications, focusing on cryptographic access control, privacy-preserving authentication, forward security and quantum-resilient protocols. Her recent work explores variants of cryptographic primitives such as Identity-Based Matchmaking Encryption, Access Control Encryption, Hierarchical Key Assignment Schemes and Sanitizable Signatures. 
 {style="text-align: justify;"}

@@ -3,6 +3,8 @@ title: CLUSIT THESIS AWARD
 date: '2024-09-05'
 ---
 Honored with the CLUSIT Thesis Award at the 19th edition.
+
+[Link](https://tesi.clusit.it/vincitori.php)
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}

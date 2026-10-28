@@ -2,7 +2,9 @@
 title: 2025 "Prof. Mario Massimo Petrone” Thesis Award"
 date: '2025-03-01'
 ---
-Awarded for the most meritorious Master's Degree thesis in Software Systems Security (LM-66), discussed during the academic year 2023-2024. 
+Awarded for the most meritorious Master's Degree thesis in Software Systems Security (LM-66), discussed during the academic year 2023-2024.
+
+[Link](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/1421/dettaglio-notizie/352)
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}

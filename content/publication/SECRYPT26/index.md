@@ -1,5 +1,5 @@
 ---
-title: 'A framework for Context-Aware Read Authorization over Encrypted Data'
+title: 'A Framework for Context-Aware Read Authorization over Encrypted Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -16,7 +16,7 @@ author_notes:
   - 'University of Salerno'
 
 date: '2026-01-01T00:00:00Z'
-#doi: 'https://doi.org/10.1007/978-3-031-54773-7_7'
+doi: '10.5220/0015064600004103'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2026-01-01T00:00:00Z'
@@ -27,14 +27,14 @@ publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear In *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT '26).*
-publication_short: To appear In *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT '26).*
+publication: In *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)*, pp. 121–132, SciTePress.
+publication_short: In *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)*, pp. 121–132, SciTePress.
 
 abstract: Many security and privacy-sensitive systems must control access to encrypted data based on dynamic operational context, such as workflow stage, safety mode, or emergency conditions. Data producers cannot anticipate which context will apply at processing time, and the component observing context cannot be trusted with plaintext or policy structure. Existing mechanisms, including Access Control Encryption (ACE), assume that all authorization-relevant information is fixed at encryption time, and offer no mechanism to incorporate context that becomes available only after the data has been produced and forwarded. We introduce Contextual Reading ACE (CR-ACE), a framework for enforcing context-dependent read authorization without a trusted reference monitor. An honest-but-curious intermediary sanitizes sender ciphertexts and attaches public contextual attributes while remaining oblivious to message contents, principal identities, and authorization logic. Receivers locally enforce authorization as the conjunction of the global ACE policy and a contextual predicate embedded in their key material. We formalize a security model for CR-ACE, provide a construction and prove that it achieves contextual payload privacy, sender anonymity, sanitization security under context, and correct enforcement of both global and context-dependent authorization in our non-collusion model.
 
 
 # Summary. An optional shortened abstract.
-summary: To appear In *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT '26).*
+summary: In *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)*, pp. 121–132, SciTePress.
 
 tags: []
 

@@ -18,7 +18,7 @@ author_notes:
   - 'University of Salerno, Italy'
 
 date: '2024-06-25T00:00:00Z'
-doi: 'https://doi.org/10.1145/3649158.3657037'
+doi: '10.1145/3649158.3657037'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-08T00:00:00Z'

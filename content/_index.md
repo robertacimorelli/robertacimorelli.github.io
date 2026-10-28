@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Roberta Cimorelli Belfiore'
+title: ''
 date: 2022-10-24
 type: landing
 
@@ -42,6 +42,42 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      date_format: Jan 2006
+      items:
+        - title: PhD Visiting Researcher
+          company: Center for Cybersecurity, Fondazione Bruno Kessler (FBK)
+          company_url: 'https://www.fbk.eu'
+          location: Trento, Italy
+          date_start: '2025-09-01'
+          date_end: '2026-03-31'
+          description: Research on applied cryptography and access control for protected data under the supervision of Prof. Silvio Ranise, with a focus on Access Control Encryption (ACE) and on the implementation of the Contextual Reading ACE framework.
+        - title: PhD Visiting Researcher
+          company: CryptoLab, School of Computing, Newcastle University
+          company_url: 'https://www.ncl.ac.uk'
+          location: Newcastle, UK
+          date_start: '2025-02-01'
+          date_end: '2025-08-31'
+          description: Research supervised by Dr. Essam Ghadafi on the design of cryptographic primitives for access control over encrypted data, with a focus on efficient post-quantum constructions.
+        - title: Subject Expert (Cultore della Materia)
+          company: University of Molise, Department of Biosciences and Territory
+          company_url: 'https://www2.unimol.it'
+          location: Pesche, Italy
+          date_start: '2023-01-01'
+          date_end: ''
+          description: Member of examination boards and support to teaching activities for courses in Cryptography, Network and Software Security, Computer Networks, Algorithms and Data Structures, Theory of Computing, Program Analysis, Logic and Object-Oriented Programming.
+        - title: Orientation and Tutoring Assistant
+          company: University of Molise
+          company_url: 'https://www2.unimol.it'
+          location: Isernia, Italy
+          date_start: '2023-02-01'
+          date_end: '2023-05-31'
+          description: Tutoring and academic support for bachelor's and master's students, including working students and students with learning disabilities.
+    design:
+      columns: '2'
   # - block: skills
   #   content:
   #     title: Skills
@@ -249,6 +285,27 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: markdown
+    id: service
+    content:
+      title: Academic Service
+      text: |-
+        **Program Committees**
+        - **2026**: ESORICS 2026 – 31st European Symposium on Research in Computer Security
+
+        **Organizing Committees**
+        - **2026**: Web & Communications Support, BITES 2026 – 1st International Summer School: Biosciences, Informatics, Tourism, Engineering, Sustainability
+        - **2024**: Web Chair, DBSec 2024 – 38th IFIP WG 11.3 Conference on Data and Applications Security and Privacy
+
+        **Journal Reviewing**
+        - IEEE Transactions on Dependable and Secure Computing (TDSC)
+        - ACM Transactions on Internet Technology (TOIT)
+        - Journal of Information Security and Applications (JISA)
+
+        **External Reviewing**
+        - **2024**: Sub-reviewer, DBSec 2024
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

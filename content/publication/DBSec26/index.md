@@ -19,8 +19,8 @@ author_notes:
   - 'University of Molise'
   - 'University of Salerno'
 
-date: '2026-01-01T00:00:00Z'
-#doi: 'https://doi.org/10.1007/978-3-031-54773-7_7'
+date: '2026-07-01T00:00:00Z'
+doi: '10.1007/978-3-032-33260-8_12'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2026-01-01T00:00:00Z'
@@ -31,14 +31,14 @@ publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear In *Proceedings of the 40th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 2026)*
-publication_short: To appear In *Proceedings of the 40th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 2026)*
+publication: In *Data and Applications Security and Privacy XL (DBSec 2026)*, LNCS vol. 16576, pp. 224–243, Springer. **Best Paper Award**
+publication_short: In *Data and Applications Security and Privacy XL (DBSec 2026)*, LNCS vol. 16576, pp. 224–243, Springer. **Best Paper Award**
 
 abstract: Hierarchical Key Assignment Schemes (HKAS) are cryptographic tools that enforce access control in partially ordered hierarchies, allowing each class to derive the keys of all classes below it. All existing schemes assume that the hierarchy structure is publicly known. In many modern applications, however, the topology of the access hierarchy is itself sensitive information that should be protected. We study the problem of extending existing HKAS to hide the hierarchy topology from adversaries who corrupt a subset of classes, without redesigning the underlying schemes from scratch. We formalize this goal through new security definitions capturing graph-hiding and topology privacy, and we propose a simple generic compiler that transforms any HKAS satisfying a natural anonymizability condition into one that achieves these stronger guarantees. Our main technical contribution is the identification of this condition, which requires that the joint distribution of the public values of the scheme be computationally indistinguishable from independently simulated random values. We show that this condition is not implied by the standard indistinguishability (IND-ST) security notion alone, by exhibiting a concrete counterexample based on the Akl-Taylor scheme. On the positive side, we verify that the Encryption Based Construction (EBC) and the Dynamic Encryption Based Construction (DEBC) of De Santis et al. both satisfy our condition and can therefore be made topology-private through our lightweight transformation.
 
 
 # Summary. An optional shortened abstract.
-summary: To appear In *Proceedings of the 40th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 2026)*
+summary: In *Data and Applications Security and Privacy XL (DBSec 2026)*, LNCS vol. 16576, pp. 224–243, Springer. **Best Paper Award**
 
 tags: []
 
